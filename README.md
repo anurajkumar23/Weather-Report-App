@@ -9,4 +9,6 @@ Get Realtime Weather report
 - A complete project Made on HTML,CSS,Javascript,Api.
 
 - TODO: ScreenShots Below 👇
-![Download Thumbnail](https://user-images.githubusercontent.com/102934270/208369079-3b9e9faf-815a-4c47-9c47-194286578320.jpg)
+![Wheather Report-1](https://user-images.githubusercontent.com/102934270/209375619-6d10ab08-beae-4202-b4b8-87d254ab3566.jpg)
+![Wheater Report-2](https://user-images.githubusercontent.com/102934270/209375649-c484fcbc-aed2-4655-a87a-89d7989c88fd.jpg)
+
